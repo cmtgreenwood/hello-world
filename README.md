@@ -1,2 +1,3 @@
 # hello-world
-learrning
+learning
+OK managed to spell learning wrong the first time!
